@@ -15,7 +15,9 @@ iPhone un datora pārlūkā lietojama PWA elektromērījumu datu ievadei un PDF 
 - izvēlamas mērījumu sadaļas;
 - stāvu, telpu un ierīču hierarhija;
 - vienfāzes un trīsfāžu īsslēguma strāvas un cilpas pretestības lauki;
+- vienfāzes ierīces fāzes izvēle (L1, L2 vai L3);
+- tukšas īsslēguma strāvas un cilpas pretestības vērtības automātiski pārņem iepriekšējās ierīces datus tajā pašā telpā;
 - izolācijas, zemējuma nepārtrauktības, kontūra un zibensaizsardzības mērījumi;
 - sertifikātu, termogrāfisko, parasto un shēmu attēlu pievienošana;
-- PDF drukas skats, īsts DOCX fails un JSON rezerves kopija;
+- Letter formāta PDF drukas skats un DOCX ar titullapu, sertifikātiem, aktu, lapās sadalītām mērījumu tabulām, parakstu blokiem un fotoattēlu pielikumu;
 - automātiska saglabāšana ierīces IndexedDB un darbs bezsaistē.
